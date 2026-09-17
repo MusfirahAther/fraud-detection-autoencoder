@@ -122,6 +122,9 @@ label, [data-testid="stWidgetLabel"] p {
 [data-testid="stMetricValue"] {
     color: #ffffff !important;
     font-weight: 800 !important;
+    font-size: 22px !important;
+    overflow: visible !important;
+    white-space: nowrap !important;
 }
 [data-testid="stMetricLabel"] {
     color: #8b949e !important;
