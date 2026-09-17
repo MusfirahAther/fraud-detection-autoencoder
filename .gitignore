@@ -1,0 +1,15 @@
+# Python virtual environments and bytecode
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local datasets and test exports
+creditcard.csv
+*.csv
+
+# Operating-system files
+.DS_Store
+Thumbs.db
